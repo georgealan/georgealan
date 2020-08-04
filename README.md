@@ -6,13 +6,8 @@
     Seja bem vindo ao meu repositório! aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
 </h3>
 
-<a href="https://medium.com/kodyweb">
-    <img alt="Blog Medium KodyWeb" src="https://img.shields.io/badge/Blog-KodyWeb-black?style=flat&logo=Medium">
-</a>
-
-<a href="https://medium.com/kodyweb">
-    <img alt="Blog Medium KodyWeb" src="https://forthebadge.com/images/badges/made-with-java.svg?logo=Medium">
-</a>
+[![Medium Badge](https://img.shields.io/badge/-KodyWeb-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/kodyweb)](https://medium.com/kodyweb) [![Linkedin Badge](https://img.shields.io/badge/-George-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-alan-fullstack-developer/)](https://www.linkedin.com/in/george-alan-fullstack-developer/) 
+[![Gmail Badge](https://img.shields.io/badge/-georgealan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:georgealan@gmail.com)](mailto:georgealanrufo@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-georgealan-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/georgealanrufo/)](https://www.instagram.com/georgealanrufo/)
 
 <!--
 **georgealan/georgealan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
