@@ -1,4 +1,6 @@
-# Olá! meu nome é George Alan ✌
+<h1 align="center">
+     ✌ Olá! meu nome é George Alan ✌
+</h1>
 
 <!--
 **georgealan/georgealan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
