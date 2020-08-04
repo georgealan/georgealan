@@ -1,10 +1,12 @@
 <h1 align="center">
-     ✌ Olá! meu nome é <strong>George Alan</strong> ✌
+     ✌ Olá! meu nome é George Alan ✌
 </h1>
 
 <h3 align="center">
     Seja bem vindo ao meu repositório! aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
 </h3>
+
+
 
 - - -
 
