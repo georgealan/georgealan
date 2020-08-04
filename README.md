@@ -1,5 +1,5 @@
 <h1 align="center">
-     ✌ Olá! meu nome é **George Alan** ✌
+     ✌ Olá! meu nome é __George Alan__ ✌
 </h1>
 
 <h3 align="center">
