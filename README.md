@@ -12,6 +12,13 @@
 
 ---
 
+### Plataformas de Estudo
+Você programador iniciante que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
+
+- [Codility](https://app.codility.com/programmers/)
+- [Hackerrank](https://www.hackerrank.com/)
+- [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
+
 <!--
 **georgealan/georgealan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
