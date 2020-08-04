@@ -1,5 +1,5 @@
 <h1 align="center">
-     ✌ Olá! meu nome é George Alan ✌
+     :raised_hand_with_fingers_splayed: Olá! meu nome é George Alan :raised_hand_with_fingers_splayed:
 </h1>
 
 <h3 align="center">
@@ -12,17 +12,6 @@
 
 ---
 
-~~~javascript
-Esta é uma linha de código em Javascript.
-~~~
-
-~~~php
-Esta é uma linha de código em PHP.
-~~~
-
-~~~html
-Esta é uma linha de código em HTML.
-~~~
 <!--
 **georgealan/georgealan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
