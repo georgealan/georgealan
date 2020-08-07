@@ -1,5 +1,5 @@
 <h1 align="center">
-     :raised_hand_with_fingers_splayed: Olá! meu nome é George Alan :raised_hand_with_fingers_splayed:
+    Olá! meu nome é George Alan 👋
 </h1>
 
 <h3 align="center">
