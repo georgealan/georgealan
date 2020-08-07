@@ -19,16 +19,15 @@ Hoje estou estudando para evoluir minhas habilidades e ser capaz de criar soluç
 Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
 
 ## 💻 Estudando atualmente
-Atualmente estou estudando:
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 
-## Estou interessado
+## 👀 Estou interessado
 ![Rabbitmq](https://img.shields.io/badge/-RabbitMQ-ff6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-ff6600?style=flat-square&logo=golang&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-ff6600?style=flat-square&logo=go&logoColor=white)
 
 
 ---
