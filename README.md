@@ -1,8 +1,6 @@
 <h1 align="center">
-    Olá! meu nome é George Alan <img src="https://github.com/georgealan/georgealan/tree/master/assets/hi.gif" width="22px">
+    Olá! meu nome é George Alan 👋
 </h1>
-
-# Olá! meu nome é George Alan <img src="https://github.com/georgealan/georgealan/tree/master/assets/hi.gif" width="22px">
 
 <h3 align="center">
     Seja bem vindo ao meu repositório! aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
@@ -21,7 +19,13 @@ Hoje estou estudando para evoluir minhas habilidades e ser capaz de criar soluç
 Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
 
 ## 💻 Estudando atualmente
-Atualmente estou estudando NodeJS, ReactJS, React Native e TypeScript, e integrando todo meu processo de desenvolvimento no Docker, e estudando sobre mensageria, RabbbitMQ.
+Atualmente estou estudando:
+![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-ff6600?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
