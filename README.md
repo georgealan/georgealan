@@ -1,5 +1,5 @@
 <h1 align="center">
-    Olá! meu nome é George Alan
+    Olá! meu nome é George Alan <img src="https://github.com/georgealan/georgealan/tree/master/assets/hi.gif" width="40px">
 </h1>
 
 <h3 align="center">
