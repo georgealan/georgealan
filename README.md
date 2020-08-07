@@ -27,7 +27,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 ## 👀 Estou interessado
 ![Rabbitmq](https://img.shields.io/badge/-RabbitMQ-ff6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-ff6600?style=flat-square&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-69d7e2?style=flat-square&logo=go&logoColor=white)
 
 
 ---
