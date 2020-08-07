@@ -30,7 +30,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
 ![IntellijIDEA](https://img.shields.io/badge/-Intellij%20IDEA-C83C76?style=flat-square&logo=intellij-idea&logoColor=white)
-![DataGrip](https://img.shields.io/badge/-DataGrip-C83C76?style=flat-square&logo=datagrip&logoColor=white)
+![DataGrip](https://img.shields.io/badge/-Data%20Grip-C83C76?style=flat-square&logo=data-grip&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-222E3C?style=flat-square&logo=amazon-aws&logoColor=F89500)
 ![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white)
