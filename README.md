@@ -2,6 +2,8 @@
     Olá! meu nome é George Alan <img src="https://github.com/georgealan/georgealan/tree/master/assets/hi.gif" width="22px">
 </h1>
 
+# Olá! meu nome é George Alan <img src="https://github.com/georgealan/georgealan/tree/master/assets/hi.gif" width="22px">
+
 <h3 align="center">
     Seja bem vindo ao meu repositório! aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
 </h3>
