@@ -25,7 +25,7 @@ Atualmente estou estudando:
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-ff6600?style=flat-square&logo=docker&logoColor=white)
+![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-ff6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 ---
 
