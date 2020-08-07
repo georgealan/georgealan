@@ -29,7 +29,12 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
+![IntellijIDEA](https://img.shields.io/badge/-IntelijIDEA-0085D1?style=flat-square&logo=intellij&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws)
+![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
 ## 💻 Estudando atualmente
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
@@ -42,7 +47,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ## 👀 Estou interessado
 ![Rabbitmq](https://img.shields.io/badge/-RabbitMQ-ff6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-69d7e2?style=flat-square&logo=go&logoColor=white)
-
+![Jenkins](https://img.shields.io/badge/-Jenkins-064C62?style=flat-square&logo=jenkins&logoColor=white)
 
 ---
 
