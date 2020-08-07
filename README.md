@@ -21,7 +21,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ---
 
 ### Plataformas de Estudo
-Você programador iniciante que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
+Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
 
 - [Codility](https://app.codility.com/programmers/)
 - [Hackerrank](https://www.hackerrank.com/)
