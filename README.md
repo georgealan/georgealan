@@ -23,7 +23,7 @@ Atualmente estou estudando NodeJS, ReactJS, React Native e TypeScript, e integra
 
 ---
 
-### Plataformas de Estudo
+### Dica de plataformas de Estudo
 Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
 
 - [Codility](https://app.codility.com/programmers/)
