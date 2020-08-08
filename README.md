@@ -9,7 +9,7 @@
 <details>
 <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
 
-## 📖 Sobre mim
+### 📖 Sobre mim
 Sou desenvolvedor fullstack, comecei minha jornada profissional ingressando na faculdade de Sistemas de Informação em 2017, mas sou do tempo do ActionScript Flash, onde criava jogos no Adobe Flash utilizando ActionScript e esse foi o meu primeiro contato com programação.
 
 Sempre estive com um pé em artes gráficas, meu hobby é desenhar, e tenho conhecimentos em design, gosto de front-end também, por isso me considero fullstack porque consigo passar por todos esses processos, gosto de DevOps também utilizando a AWS. Sou muito curioso, e gosto de levar a arte para a programação.
@@ -43,7 +43,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
-## 💻 Estudando atualmente
+### 💻 Estudando atualmente
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
@@ -51,7 +51,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 
-## 👀 Estou interessado
+### 👀 Estou interessado
 ![Rabbitmq](https://img.shields.io/badge/-RabbitMQ-ff6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-69d7e2?style=flat-square&logo=go&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-064C62?style=flat-square&logo=jenkins&logoColor=white)
@@ -59,7 +59,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 ---
 
-## 💡 Dica de plataformas de Estudo
+### 💡 Dica de plataformas de Estudo
 Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
 
 - [Codility](https://app.codility.com/programmers/)
