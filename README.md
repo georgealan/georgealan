@@ -52,6 +52,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![Rabbitmq](https://img.shields.io/badge/-RabbitMQ-ff6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-69d7e2?style=flat-square&logo=go&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-064C62?style=flat-square&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
