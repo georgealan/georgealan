@@ -7,7 +7,7 @@
 ## Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
 
 <details>
-<summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
+<summary> <h2> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> <h2> </summary>
 <br>
 
 ## 📖 Sobre mim
