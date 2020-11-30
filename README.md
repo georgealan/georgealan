@@ -18,6 +18,8 @@ Hoje estou estudando para evoluir minhas habilidades e ser capaz de criar soluç
 Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
 </details>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=georgealan&show_icons=true&theme=dracula)
+
 ### 💼 Trabalho com
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-CE608A?style=flat-square&logo=kotlin&logoColor=white)
@@ -57,6 +59,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-064C62?style=flat-square&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgealan&layout=compact)
 ---
 
 ### 💡 Dica de plataformas de Estudo
