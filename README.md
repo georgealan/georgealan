@@ -60,8 +60,6 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgealan&layout=compact)
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=georgealan)
 ---
 
 ### 💡 Dica de plataformas de Estudo
