@@ -38,7 +38,10 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
 ### 💻 Estudando atualmente
-![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-B7A976?style=flat-square&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/-JPA-58646A?style=flat-square&logo=jpa&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6AAE3D?style=flat-square&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
