@@ -20,7 +20,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 <details>
 <summary> <b> Technologies that I'm working and studying </b> <i>(To view, click here to expand)</i> </summary>
   
-### 💼 Working with
+### 💼 Working With
 [![Java](https://img.shields.io/badge/java-E42D2C.svg?style=for-the-badge&logo=java&logoColor=white&link=https://www.oracle.com/br/java/technologies/downloads/)](https://www.oracle.com/br/java/technologies/downloads/)
 [![Kotlin](https://img.shields.io/badge/kotlin-CE608A.svg?style=for-the-badge&logo=kotlin&logoColor=white&link=https://kotlinlang.org/)](https://kotlinlang.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&link=https://www.javascript.com/)](https://www.javascript.com/)
@@ -36,7 +36,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 [![Navicat](https://img.shields.io/badge/navicat-58646A.svg?style=for-the-badge&logo=jpa&logoColor=white&link=https://www.navicat.com/en)](https://www.navicat.com/en)
 
 
-### 💻 Currently Studying
+### 💻 Currently Learning
 ##### Programming Languages
 [![Java](https://img.shields.io/badge/java-E42D2C.svg?style=for-the-badge&logo=java&logoColor=white&link=https://www.oracle.com/br/java/technologies/downloads/)](https://www.oracle.com/br/java/technologies/downloads/)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&link=https://go.dev/)](https://go.dev/)
@@ -78,4 +78,9 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=georgealan&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgealan&layout=compact)
----
+
+### 🏊‍♂️ Weekly Development Breakdown
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
