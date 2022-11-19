@@ -82,6 +82,4 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 #### 🏊‍♂️ Weekly Development Breakdown
 
-![light](https://raw.githubusercontent.com/georgealan/georgealan/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
-
-![dark](https://raw.githubusercontent.com/georgealan/georgealan/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
+![light](https://raw.githubusercontent.com/georgealan/georgealan/master/images/wakatime_weekly_language_stats.svg)
