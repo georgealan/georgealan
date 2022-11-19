@@ -78,10 +78,3 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=georgealan&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgealan&layout=compact)
-
-### 🏊‍♂️ Weekly Development Breakdown
-
-![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
-
-![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
-
