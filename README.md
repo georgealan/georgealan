@@ -38,10 +38,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 ### 💻 Currently Learning
 ##### Programming Languages
-[![Java](https://img.shields.io/badge/java-E42D2C.svg?style=for-the-badge&logo=java&logoColor=white&link=https://www.oracle.com/br/java/technologies/downloads/)](https://www.oracle.com/br/java/technologies/downloads/)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&link=https://go.dev/)](https://go.dev/)
-[![Kotlin](https://img.shields.io/badge/kotlin-CE608A.svg?style=for-the-badge&logo=kotlin&logoColor=white&link=https://kotlinlang.org/)](https://kotlinlang.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&link=https://www.javascript.com/)](https://www.javascript.com/)
 [![Typescript](https://img.shields.io/badge/typescript-0074C2.svg?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 
 ##### Database Tools
