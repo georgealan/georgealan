@@ -42,12 +42,9 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 [![Typescript](https://img.shields.io/badge/typescript-0074C2.svg?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 
 ##### Database Tools
-[![Hibernate](https://img.shields.io/badge/hibernate-B7A976.svg?style=for-the-badge&logo=hibernate&logoColor=white&link=https://hibernate.org/)](https://hibernate.org/)
-[![JPA](https://img.shields.io/badge/jpa-58646A.svg?style=for-the-badge&logo=jpa&logoColor=white&link=https://www.oracle.com/java/technologies/persistence-jsp.html)](https://www.oracle.com/java/technologies/persistence-jsp.html)
 [![MongoDB](https://img.shields.io/badge/mongodb-13aa52.svg?style=for-the-badge&logo=mongodb&logoColor=white&link=https://www.mongodb.com/)](https://www.mongodb.com/)
 
 ##### Frameworks
-[![Spring](https://img.shields.io/badge/spring-6AAE3D.svg?style=for-the-badge&logo=spring&logoColor=white&link=https://spring.io/)](https://spring.io/)
 [![Gatsby](https://img.shields.io/badge/gatsby-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white&link=https://www.gatsbyjs.com/)](https://www.gatsbyjs.com/)
 [![React](https://img.shields.io/badge/react-45b8d8.svg?style=for-the-badge&logo=react&logoColor=white&link=https://reactjs.org/)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/react%20Native-45b8d8.svg?style=for-the-badge&logo=react&logoColor=white&link=https://reactnative.dev/)](https://reactnative.dev/)
