@@ -5,7 +5,7 @@
 ### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
 
 <details>
-<summary> <b> Do you want to know more about me? </b> <i>(To see click here to expand)</i> </summary>
+<summary> <b> Do you want to know more about me? </b> <i>(To view, click here to expand)</i> </summary>
 
 ### 📖 About Me
 Sou desenvolvedor fullstack, comecei minha jornada profissional ingressando na faculdade de Sistemas de Informação em 2017, mas sou do tempo do ActionScript Flash, onde criava jogos no Adobe Flash utilizando ActionScript e esse foi o meu primeiro contato com programação.
@@ -17,12 +17,12 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 </details>
 
 <details>
-<summary> <b> Technologies that I'm working and studying </b> <i>(To see click here to expand)</i> </summary>
+<summary> <b> Technologies that I'm working and studying </b> <i>(To view, click here to expand)</i> </summary>
   
 ### 💼 Working with
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-CE608A?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=35363A)
 ![Spring](https://img.shields.io/badge/-Spring-6AAE3D?style=flat-square&logo=spring&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
