@@ -83,4 +83,9 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 #### 🏊‍♂️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
