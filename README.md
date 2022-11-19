@@ -18,6 +18,9 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=georgealan&show_icons=true&theme=dracula)
 
+<details>
+<summary> <b> Technologies that I'm working and studying </b> <i>(To see click here to expand)</i> </summary>
+  
 ### 💼 Working with
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-CE608A?style=flat-square&logo=kotlin&logoColor=white)
@@ -70,7 +73,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![C](https://img.shields.io/badge/-C-5866B7?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-005494?style=flat-square&logo=c&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-D33121?style=flat-square&logo=scala&logoColor=white)
-
+</details>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgealan&layout=compact)
 ---
