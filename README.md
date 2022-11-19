@@ -80,20 +80,8 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgealan&layout=compact)
 
 ### 🏊‍♂️ Weekly Development Breakdown
-<!--START_SECTION:waka-->
 
-```text
-From: 09 July 2020 - To: 19 November 2022
+![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
 
-Total Time: 23 hrs 18 mins
-
-JavaScript   18 hrs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀   77.23 %
-CSS          4 hrs 34 mins   ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.60 %
-JSON         28 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.06 %
-HTML         10 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.76 %
-Bash         4 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.31 %
-Git Config   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.03 %
-```
-
-<!--END_SECTION:waka-->
+![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
 
