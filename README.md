@@ -7,7 +7,7 @@
 <details>
 <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
 
-### 📖 Sobre mim
+### 📖 About Me
 Sou desenvolvedor fullstack, comecei minha jornada profissional ingressando na faculdade de Sistemas de Informação em 2017, mas sou do tempo do ActionScript Flash, onde criava jogos no Adobe Flash utilizando ActionScript e esse foi o meu primeiro contato com programação.
 
 Sempre estive com um pé em artes gráficas, meu hobby é desenhar, e tenho conhecimentos em design, gosto de front-end também, por isso me considero fullstack porque consigo passar por todos esses processos, gosto de DevOps também utilizando a AWS. Sou muito curioso, e gosto de levar a arte para a programação.
@@ -18,7 +18,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=georgealan&show_icons=true&theme=dracula)
 
-### 💼 Trabalho com
+### 💼 Working with
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-CE608A?style=flat-square&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6AAE3D?style=flat-square&logo=spring&logoColor=white)
@@ -33,29 +33,30 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![IntellijIDEA](https://img.shields.io/badge/-IntellijIDEA-C83C76?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Navicat](https://img.shields.io/badge/-Navicat-58646A?style=flat-square&logo=jpa&logoColor=white)
 
-### 💻 Estudando atualmente
-#### Programming Languages
+
+### 💻 Currently Studying
+##### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-007D9C?style=flat-square&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-CE608A?style=flat-square&logo=kotlin&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-0074C2?style=flat-square&logo=typescript&logoColor=white)
 
-#### Database Tools
+##### Database Tools
 ![Hibernate](https://img.shields.io/badge/-Hibernate-B7A976?style=flat-square&logo=hibernate&logoColor=white)
 ![JPA](https://img.shields.io/badge/-JPA-58646A?style=flat-square&logo=jpa&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 
-#### Frameworks
+##### Frameworks
 ![Spring](https://img.shields.io/badge/-Spring-6AAE3D?style=flat-square&logo=spring&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 
-#### DevOps, Containers
+##### DevOps, Containers
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
 
-#### Microsoft Power Platform
+##### Microsoft Power Platform
 ![Power Bi](https://img.shields.io/badge/-PowerBi-F2C900?style=flat-square&logo=powerbi&logoColor=35363A)
 ![Power Apps](https://img.shields.io/badge/-PowerApps-8E2D84?style=flat-square&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/-PowerAutomate-3384F2?style=flat-square&logo=powerautomate&logoColor=white)
@@ -63,7 +64,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![Power Pages](https://img.shields.io/badge/-PowerPages-9F8CDD?style=flat-square&logo=powerpages&logoColor=white)
 
 
-### 👀 Estou interessado
+### 👀 I'm Curious About
 ![Rabbitmq](https://img.shields.io/badge/-RabbitMQ-ff6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-064C62?style=flat-square&logo=jenkins&logoColor=white)
 
