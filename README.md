@@ -1,6 +1,6 @@
 # :man_technologist: George Alan
-[![Linkedin Badge](https://img.shields.io/badge/-George-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-alan-fullstack-developer/)](https://www.linkedin.com/in/george-alan-fullstack-developer/)
-[![Gmail Badge](https://img.shields.io/badge/-georgealanrufo@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:georgealanrufo@gmail.com)](mailto:georgealanrufo@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/my%20linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-alan-fullstack-developer/)](https://www.linkedin.com/in/george-alan-fullstack-developer/)
+[![Gmail Badge](https://img.shields.io/badge/my%20gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:georgealanrufo@gmail.com)](mailto:georgealanrufo@gmail.com)
 [![Leetcode](https://img.shields.io/badge/leetcode-%23323330.svg?style=for-the-badge&logo=leetcode&logoColor=FFA116&link=https://leetcode.com/georgealan/)](https://leetcode.com/georgealan/)
 
 ### Hello! Welcome to my repository! 👋 Here is gathered most of my study projects, my daily evolution in chase of seniority and proficiency as a programmer. 🏆
