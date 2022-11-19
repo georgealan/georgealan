@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-George-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-alan-fullstack-developer/)](https://www.linkedin.com/in/george-alan-fullstack-developer/)
 [![Gmail Badge](https://img.shields.io/badge/-georgealanrufo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:georgealanrufo@gmail.com)](mailto:georgealanrufo@gmail.com)
 
-### Hello! Welcome to my repository! 👋 Here is gathered most of my study projects, my daily evolution in search of seniority and proficiency as a programmer. 🏆
+### Hello! Welcome to my repository! 👋 Here is gathered most of my study projects, my daily evolution in chase of seniority and proficiency as a programmer. 🏆
 
 <details>
 <summary> <b> Do you want to know more about me? </b> <i>(To view, click here to expand)</i> </summary>
