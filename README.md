@@ -5,7 +5,7 @@
 ### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
 
 <details>
-<summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
+<summary> <b> Do you want to know more about me? </b> <i>(To see click here to expand)</i> </summary>
 
 ### 📖 About Me
 Sou desenvolvedor fullstack, comecei minha jornada profissional ingressando na faculdade de Sistemas de Informação em 2017, mas sou do tempo do ActionScript Flash, onde criava jogos no Adobe Flash utilizando ActionScript e esse foi o meu primeiro contato com programação.
@@ -15,8 +15,6 @@ Sempre estive com um pé em artes gráficas, meu hobby é desenhar, e tenho conh
 Hoje estou estudando para evoluir minhas habilidades e ser capaz de criar soluções que auxiliem as empresas a venderem mais, atrair mais clientes e fidelizarem clientes, através de sistemas, aplicativos, web sites otimizados com SEO, campanhas e captação de leads. Acredito que a união da tecnologia com o marketing e a arte, cria um sistema diferenciado que proporciona uma experiência rica para os usuários.
 Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
 </details>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=georgealan&show_icons=true&theme=dracula)
 
 <details>
 <summary> <b> Technologies that I'm working and studying </b> <i>(To see click here to expand)</i> </summary>
@@ -74,6 +72,8 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![C++](https://img.shields.io/badge/-C++-005494?style=flat-square&logo=c&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-D33121?style=flat-square&logo=scala&logoColor=white)
 </details>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=georgealan&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgealan&layout=compact)
 ---
