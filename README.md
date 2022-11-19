@@ -36,6 +36,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ### 💻 Estudando atualmente
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-007D9C?style=flat-square&logo=go&logoColor=white)
+![Power Bi](https://img.shields.io/badge/-PowerBi-F2C900?style=flat-square&logo=powerbi&logoColor=35363A)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-B7A976?style=flat-square&logo=hibernate&logoColor=white)
 ![JPA](https://img.shields.io/badge/-JPA-58646A?style=flat-square&logo=jpa&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6AAE3D?style=flat-square&logo=spring&logoColor=white)
