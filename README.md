@@ -79,7 +79,9 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go           2 hrs 27 mins   ████████████████████████▒   97.73 %
+Java         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
