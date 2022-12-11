@@ -3,19 +3,15 @@
 [![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:georgealanrufo@gmail.com)](mailto:georgealanrufo@gmail.com)
 [![Leetcode](https://img.shields.io/badge/leetcode-%23323330.svg?style=for-the-badge&logo=leetcode&logoColor=FFA116&link=https://leetcode.com/georgealan/)](https://leetcode.com/georgealan/)
 
-### Hello! Welcome to my repository! 👋 Here is gathered most of my study projects, my daily evolution in chase of seniority and proficiency as a programmer. 🏆
-
-<details>
-<summary> <b> Do you want to know more about me? </b> <i>(To view, click here to expand)</i> </summary>
+### Hello! Welcome to my GitHub profile! 👋 Here is gathered most of my study projects, my daily evolution in chase of seniority and proficiency as a programmer. 🏆
 
 ### 📖 About Me
-Sou desenvolvedor fullstack, comecei minha jornada profissional ingressando na faculdade de Sistemas de Informação em 2017, mas sou do tempo do ActionScript Flash, onde criava jogos no Adobe Flash utilizando ActionScript e esse foi o meu primeiro contato com programação.
+My name is George Alan, and I am a full-stack developer with a passion for building innovative and high-quality applications.
+I am currently studying data structures and algorithms, as well as the Go programming language. Through my studies and practice, I have developed a strong understanding of logic and problem-solving, which I apply in my work as a developer.
+  
+In addition to my programming skills, I have experience with databases and SQL, and I am proficient in both frontend and backend development. This allows me to design and implement complete and functional web applications, from the user interface to the underlying data and logic.
 
-Sempre estive com um pé em artes gráficas, meu hobby é desenhar, e tenho conhecimentos em design, gosto de front-end também, por isso me considero fullstack porque consigo passar por todos esses processos, gosto de DevOps também utilizando a AWS. Sou muito curioso, e gosto de levar a arte para a programação.
-
-Hoje estou estudando para evoluir minhas habilidades e ser capaz de criar soluções que auxiliem as empresas a venderem mais, atrair mais clientes e fidelizarem clientes, através de sistemas, aplicativos, web sites otimizados com SEO, campanhas e captação de leads. Acredito que a união da tecnologia com o marketing e a arte, cria um sistema diferenciado que proporciona uma experiência rica para os usuários.
-Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
-</details>
+I am always looking for new challenges and opportunities to learn and grow as a developer. If you have any questions or would like to collaborate on a project, please don't hesitate to contact me. Thanks for visiting my profile, and I hope to hear from you soon!
 
 <details>
 <summary> <b> Technologies that I'm working and studying </b> <i>(To view, click here to expand)</i> </summary>
