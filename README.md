@@ -65,7 +65,7 @@ I am always looking for new challenges and opportunities to learn and grow as a 
 [![Scala](https://img.shields.io/badge/scala-D33121.svg?style=for-the-badge&logo=scala&logoColor=white&link=https://www.scala-lang.org/)](https://www.scala-lang.org/)
 </details>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=georgealan&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgealan&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgealan&layout=compact)
 
