@@ -67,7 +67,7 @@ I am always looking for new challenges and opportunities to learn and grow as a 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgealan&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgealan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgealan&layout=compact&langs_count=10&theme=darcula")
 
 
 #### 🏊‍♂️ Weekly Development Breakdown
