@@ -51,11 +51,6 @@ I am always looking for new challenges and opportunities to learn and grow as a 
 
 ##### Microsoft Power Platform
 [![Power Bi](https://img.shields.io/badge/power%20bi-F2C900.svg?style=for-the-badge&logo=powerbi&logoColor=35363A&link=https://powerbi.microsoft.com/en-us/)](https://powerbi.microsoft.com/en-us/)
-[![Power Apps](https://img.shields.io/badge/power%20apps-8E2D84.svg?style=for-the-badge&logo=powerapps&logoColor=white&link=https://powerapps.microsoft.com/en-us/)](https://powerapps.microsoft.com/en-us/)
-[![Power Automate](https://img.shields.io/badge/power%20automate-3384F2.svg?style=for-the-badge&logo=powerautomate&logoColor=white&link=https://powerautomate.microsoft.com/en-us/)](https://powerautomate.microsoft.com/en-us/)
-[![Power Virtual Agents](https://img.shields.io/badge/power%20virtual%20agents-137D89.svg?style=for-the-badge&logo=powervirtualagents&logoColor=white&link=https://powervirtualagents.microsoft.com/en-us/)](https://powervirtualagents.microsoft.com/en-us/)
-[![Power Pages](https://img.shields.io/badge/power%20pages-9F8CDD.svg?style=for-the-badge&logo=powerpages&logoColor=white&link=https://powerpages.microsoft.com/en-us/)](https://powerpages.microsoft.com/en-us/)
-
 
 ### 👀 I'm Curious About
 [![Rabbitmq](https://img.shields.io/badge/rabbitmq-ff6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white&link=https://www.rabbitmq.com/)](https://www.rabbitmq.com/)
