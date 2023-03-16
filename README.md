@@ -41,9 +41,7 @@ I am always looking for new challenges and opportunities to learn and grow as a 
 [![MongoDB](https://img.shields.io/badge/mongodb-13aa52.svg?style=for-the-badge&logo=mongodb&logoColor=white&link=https://www.mongodb.com/)](https://www.mongodb.com/)
 
 ##### Frameworks
-[![Gatsby](https://img.shields.io/badge/gatsby-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white&link=https://www.gatsbyjs.com/)](https://www.gatsbyjs.com/)
-[![React](https://img.shields.io/badge/react-45b8d8.svg?style=for-the-badge&logo=react&logoColor=white&link=https://reactjs.org/)](https://reactjs.org/)
-[![React Native](https://img.shields.io/badge/react%20Native-45b8d8.svg?style=for-the-badge&logo=react&logoColor=white&link=https://reactnative.dev/)](https://reactnative.dev/)
+[![Angular](https://img.shields.io/badge/angular-FFFFFF.svg?style=for-the-badge&logo=angular&logoColor=D2002F&link=https://angular.io/)](https://angular.io/)
 
 ##### DevOps, Containers
 [![Docker](https://img.shields.io/badge/docker-46a2f1.svg?style=for-the-badge&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
