@@ -21,7 +21,6 @@ I am always looking for new challenges and opportunities to learn and grow as a 
 [![Kotlin](https://img.shields.io/badge/kotlin-CE608A.svg?style=for-the-badge&logo=kotlin&logoColor=white&link=https://kotlinlang.org/)](https://kotlinlang.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&link=https://www.javascript.com/)](https://www.javascript.com/)
 [![Spring](https://img.shields.io/badge/spring-6AAE3D.svg?style=for-the-badge&logo=spring&logoColor=white&link=https://spring.io/)](https://spring.io/)
-[![Gatsby](https://img.shields.io/badge/gatsby-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white&link=https://www.gatsbyjs.com/)](https://www.gatsbyjs.com/)
 [![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white&link=https://www.mysql.com/)](https://www.mysql.com/)
 [![Postgresql](https://img.shields.io/badge/postgresql-32648D.svg?style=for-the-badge&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
 [![Hibernate](https://img.shields.io/badge/hibernate-B7A976.svg?style=for-the-badge&logo=hibernate&logoColor=white&link=https://hibernate.org/)](https://hibernate.org/)
