@@ -42,7 +42,7 @@ I am always looking for new challenges and opportunities to learn and grow as a 
 
 ##### Frameworks
 [![Angular](https://img.shields.io/badge/angular-FFFFFF.svg?style=for-the-badge&logo=angular&logoColor=D2002F&link=https://angular.dev/)](https://angular.dev/)
-[![React](https://img.shields.io/badge/react-0074C2.svg?style=for-the-badge&logo=react&logoColor=white&link=https://react.dev/)](https://react.dev/)
+[![React](https://img.shields.io/badge/react-FFFFFF.svg?style=for-the-badge&logo=react&logoColor=08D9FF&link=https://react.dev/)](https://react.dev/)
 
 ##### DevOps, Containers
 [![Docker](https://img.shields.io/badge/docker-46a2f1.svg?style=for-the-badge&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
