@@ -34,27 +34,25 @@ I am always looking for new challenges and opportunities to learn and grow as a 
 ### 💻 Currently Learning
 ##### Programming Languages
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&link=https://go.dev/)](https://go.dev/)
+[![Rust](https://img.shields.io/badge/rust-E53D1D.svg?style=for-the-badge&logo=rust&logoColor=white&link=https://www.rust-lang.org/)](https://www.rust-lang.org/)
 [![Typescript](https://img.shields.io/badge/typescript-0074C2.svg?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 
 ##### Database Tools
 [![MongoDB](https://img.shields.io/badge/mongodb-13aa52.svg?style=for-the-badge&logo=mongodb&logoColor=white&link=https://www.mongodb.com/)](https://www.mongodb.com/)
 
 ##### Frameworks
-[![Angular](https://img.shields.io/badge/angular-FFFFFF.svg?style=for-the-badge&logo=angular&logoColor=D2002F&link=https://angular.io/)](https://angular.io/)
+[![Angular](https://img.shields.io/badge/angular-FFFFFF.svg?style=for-the-badge&logo=angular&logoColor=D2002F&link=https://angular.dev/)](https://angular.dev/)
+[![React](https://img.shields.io/badge/react-0074C2.svg?style=for-the-badge&logo=react&logoColor=white&link=https://react.dev/)](https://react.dev/)
 
 ##### DevOps, Containers
 [![Docker](https://img.shields.io/badge/docker-46a2f1.svg?style=for-the-badge&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-316AE0.svg?style=for-the-badge&logo=kubernetes&logoColor=white&link=https://kubernetes.io/)](https://kubernetes.io/)
-
-##### Microsoft Power Platform
-[![Power Bi](https://img.shields.io/badge/power%20bi-F2C900.svg?style=for-the-badge&logo=powerbi&logoColor=35363A&link=https://powerbi.microsoft.com/en-us/)](https://powerbi.microsoft.com/en-us/)
 
 ### 👀 I'm Curious About
 [![Rabbitmq](https://img.shields.io/badge/rabbitmq-ff6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white&link=https://www.rabbitmq.com/)](https://www.rabbitmq.com/)
 [![Jenkins](https://img.shields.io/badge/jenkins-064C62.svg?style=for-the-badge&logo=jenkins&logoColor=white&link=https://www.jenkins.io/)](https://www.jenkins.io/)
 [![C](https://img.shields.io/badge/c-5866B7.svg?style=for-the-badge&logo=c&logoColor=white&link=https://devdocs.io/c/)](https://devdocs.io/c/)
 [![C++](https://img.shields.io/badge/c++-005494.svg?style=for-the-badge&logo=c&logoColor=white&link=https://isocpp.org/)](https://isocpp.org/)
-[![Scala](https://img.shields.io/badge/scala-D33121.svg?style=for-the-badge&logo=scala&logoColor=white&link=https://www.scala-lang.org/)](https://www.scala-lang.org/)
 </details>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgealan&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
