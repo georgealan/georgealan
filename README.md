@@ -55,7 +55,8 @@ I am always looking for new challenges and opportunities to learn and grow as a 
 [![C++](https://img.shields.io/badge/c++-005494.svg?style=for-the-badge&logo=c&logoColor=white&link=https://isocpp.org/)](https://isocpp.org/)
 </details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgealan&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+### [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgealan&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgealan)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgealan&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
