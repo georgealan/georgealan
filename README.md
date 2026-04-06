@@ -1,8 +1,9 @@
 # :man_technologist: George Alan
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/georgealanrufo/)](https://www.linkedin.com/in/georgealanrufo/)
 [![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:georgealanrufo@gmail.com)](mailto:georgealanrufo@gmail.com)
 [![Leetcode](https://img.shields.io/badge/leetcode-%23323330.svg?style=for-the-badge&logo=leetcode&logoColor=FFA116&link=https://leetcode.com/georgealan/)](https://leetcode.com/georgealan/)
-
+-->
 ### Hello! Welcome to my GitHub profile! 👋 Here is gathered most of my study projects, my daily evolution in chase of seniority and proficiency as a programmer. 🏆
 
 ### 📖 About Me
